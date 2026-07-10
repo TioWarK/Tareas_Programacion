@@ -1,7 +1,6 @@
-// Creación de clase Main
-public class Main {
+public class Main {// Creación de clase Main
 
-static class Tinaco{ // Creación de clase Tinaco
+    static class Tinaco{ // Creación de clase Tinaco
     String marca; // Atributos del objeto Tinaco, Marca, Capacidad y Nivel de Agua
     int cap_Maxima;
     int nivel_Agua;
